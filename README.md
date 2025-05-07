@@ -20,36 +20,14 @@ Dự án **WebMyPham** là một hệ thống quản lý bán hàng trực tuy�
 - 💬 Liên hệ và phản hồi khách hàng
 - 📊 Thống kê doanh thu (dự kiến)
 - 👨‍💼 Giao diện quản trị (Admin Panel)
-
-## 📁 Cấu trúc thư mục
-
-```bash
-WebMyPham/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/...
-│   │   ├── resources/
-│   │   │   ├── static/        # HTML, CSS, JS
-│   │   │   ├── templates/     # Thymeleaf templates
-│   │   │   └── application.properties
-├── .gitignore
-├── README.md
-└── pom.xml
-
 ## 🔧 Cách cài đặt
 Clone repository
 
-bash
-Sao chép
-Chỉnh sửa
 git clone https://github.com/raichuvn11/WebMyPham.git
 cd WebMyPham
 Cấu hình database trong application.properties
 
 properties
-Sao chép
-Chỉnh sửa
 spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName=WebMyPham
 spring.datasource.username=your_username
 spring.datasource.password=your_password
@@ -60,9 +38,7 @@ Sử dụng IDE như IntelliJ IDEA hoặc Eclipse để chạy class WebMyPhamAp
 Truy cập: http://localhost:8080
 
 ## 🔐 Tài khoản mẫu
-text
-Sao chép
-Chỉnh sửa
+
 Admin:
   Username: admin
   Password: 123
@@ -91,3 +67,20 @@ Mọi đóng góp đều được hoan nghênh! Bạn có thể tạo issue ho�
 Dự án này hiện chưa công bố giấy phép cụ thể. Nếu cần sử dụng hoặc phân phối, vui lòng liên hệ trực tiếp với chủ sở hữu repo.
 
 ## 👩‍💻 Dự án thuộc về sinh viên công nghệ thông tin, được xây dựng với đam mê và sự học hỏi.
+## 📁 Cấu trúc thư mục
+
+```bash
+WebMyPham/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/...
+│   │   ├── resources/
+│   │   │   ├── static/        # HTML, CSS, JS
+│   │   │   ├── templates/     # Thymeleaf templates
+│   │   │   └── application.properties
+├── .gitignore
+├── README.md
+└── pom.xml
+
+
