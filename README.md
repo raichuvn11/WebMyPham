@@ -36,7 +36,7 @@ WebMyPham/
 ├── .gitignore
 ├── README.md
 └── pom.xml
-🔧 Cách cài đặt
+## 🔧 Cách cài đặt
 Clone repository
 
 bash
@@ -58,7 +58,7 @@ Sử dụng IDE như IntelliJ IDEA hoặc Eclipse để chạy class WebMyPhamAp
 
 Truy cập: http://localhost:8080
 
-🔐 Tài khoản mẫu
+## 🔐 Tài khoản mẫu
 text
 Sao chép
 Chỉnh sửa
@@ -78,15 +78,15 @@ Vendor:
   Username: vendor
   Password: 123
 
-📋 Quản lý & phát triển
+## 📋 Quản lý & phát triển
 Công việc được quản lý bằng Jira
 
 Mã nguồn được quản lý trên GitHub với các nhánh và commit rõ ràng
 
-🤝 Đóng góp
+## 🤝 Đóng góp
 Mọi đóng góp đều được hoan nghênh! Bạn có thể tạo issue hoặc gửi pull request để cải thiện dự án.
 
-📄 Giấy phép
+## 📄 Giấy phép
 Dự án này hiện chưa công bố giấy phép cụ thể. Nếu cần sử dụng hoặc phân phối, vui lòng liên hệ trực tiếp với chủ sở hữu repo.
 
-👩‍💻 Dự án thuộc về sinh viên công nghệ thông tin, được xây dựng với đam mê và sự học hỏi.
+## 👩‍💻 Dự án thuộc về sinh viên công nghệ thông tin, được xây dựng với đam mê và sự học hỏi.
